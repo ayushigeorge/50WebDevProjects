@@ -15,3 +15,7 @@ Day2
 Day3
 #Rotating Nav Bar
 ![image](https://user-images.githubusercontent.com/76419649/223788412-a6a37aa9-a070-45c9-ad87-512b1a5a108d.png)
+
+Day4
+#Hidden Search Bar
+![image](https://user-images.githubusercontent.com/76419649/224362171-a93aa057-df61-404f-b210-d1b848b8aefe.png)
