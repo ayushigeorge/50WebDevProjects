@@ -19,3 +19,7 @@ Day3
 Day4
 #Hidden Search Bar
 ![image](https://user-images.githubusercontent.com/76419649/224362171-a93aa057-df61-404f-b210-d1b848b8aefe.png)
+
+Day 5
+#Blurry Loading
+![image](https://user-images.githubusercontent.com/76419649/224482894-20be81fc-9c08-4694-a648-6eff458c387c.png)
