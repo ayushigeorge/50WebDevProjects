@@ -23,3 +23,7 @@ Day4
 Day 5
 #Blurry Loading
 ![image](https://user-images.githubusercontent.com/76419649/224482894-20be81fc-9c08-4694-a648-6eff458c387c.png)
+
+Day 6
+#Scroll Animation
+![image](https://user-images.githubusercontent.com/76419649/224527656-4582b4e9-f3cd-432c-b50b-221fe2099609.png)
