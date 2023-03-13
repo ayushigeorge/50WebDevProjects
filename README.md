@@ -27,3 +27,7 @@ Day 5
 Day 6
 #Scroll Animation
 ![image](https://user-images.githubusercontent.com/76419649/224527656-4582b4e9-f3cd-432c-b50b-221fe2099609.png)
+
+Day 7
+#Split Landing Pages
+![image](https://user-images.githubusercontent.com/76419649/224656212-4af46ee7-3998-45c3-b5b9-2f322edc4118.png)
