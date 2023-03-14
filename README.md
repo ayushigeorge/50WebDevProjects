@@ -1,8 +1,8 @@
-# 50WebDevProjects
-50 Web Projects live and hosted
+# 50Web Development Projects
+ 
 
 
-## Day 1:
+## Day 1
 # Exapanding Pages
 ![image](https://user-images.githubusercontent.com/76419649/223363270-4fc46b18-199c-4453-bde4-054e30c0f60e.png)
 
