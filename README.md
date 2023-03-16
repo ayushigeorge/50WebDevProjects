@@ -39,3 +39,7 @@
 # Sound Board
 ![image](https://user-images.githubusercontent.com/76419649/225386901-2ae64c35-b9fd-4ccb-947d-66b47193fe1b.png)
 
+## Day 10
+# Dad Jokes
+![image](https://user-images.githubusercontent.com/76419649/225537568-3a24f82a-939d-4ec4-a594-9fcc12925131.png)
+
