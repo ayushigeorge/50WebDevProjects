@@ -47,3 +47,7 @@
 # Key Eventcode finder
 ![image](https://user-images.githubusercontent.com/76419649/225962715-555619d0-7177-4562-ab4e-5ab5c279ed0c.png)
 
+## Day 12
+# FAQ
+![image](https://user-images.githubusercontent.com/76419649/226097033-3781f39a-ed05-4633-a15b-19285d509106.png)
+
