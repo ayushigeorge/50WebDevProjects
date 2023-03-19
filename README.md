@@ -51,3 +51,7 @@
 # FAQ
 ![image](https://user-images.githubusercontent.com/76419649/226097033-3781f39a-ed05-4633-a15b-19285d509106.png)
 
+## Day 13
+# Random Choice Picker
+![image](https://user-images.githubusercontent.com/76419649/226192256-2651228a-fec3-420e-8b48-eba6e17933b6.png)
+
