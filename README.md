@@ -55,3 +55,7 @@
 # Random Choice Picker
 ![image](https://user-images.githubusercontent.com/76419649/226192256-2651228a-fec3-420e-8b48-eba6e17933b6.png)
 
+## Day 14
+# Animated Navbar 
+![image](https://user-images.githubusercontent.com/76419649/226425928-bc328744-2771-4047-978f-89c46eec1ec8.png)
+
