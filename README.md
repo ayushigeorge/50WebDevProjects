@@ -63,3 +63,7 @@
 # Incremental Counter Page
 ![image](https://user-images.githubusercontent.com/76419649/226829057-f15d25d4-1681-43c9-95fc-b4698f6522fa.png)
 
+## Day 16
+# Drink Water Page
+![image](https://user-images.githubusercontent.com/76419649/226829619-22c5fdc4-6141-437a-9284-9c34d13339a2.png)
+
