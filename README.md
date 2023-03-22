@@ -59,3 +59,7 @@
 # Animated Navbar 
 ![image](https://user-images.githubusercontent.com/76419649/226425928-bc328744-2771-4047-978f-89c46eec1ec8.png)
 
+## Day 15
+# Incremental Counter Page
+![image](https://user-images.githubusercontent.com/76419649/226829057-f15d25d4-1681-43c9-95fc-b4698f6522fa.png)
+
