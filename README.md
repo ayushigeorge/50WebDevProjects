@@ -74,3 +74,7 @@
 ## Day 18
 # Background Slider
 ![image](https://user-images.githubusercontent.com/76419649/227514567-91db9f5e-8d66-4a41-ad0a-b9db5032fb06.png)
+
+## DAY 19
+# theme Clock
+![image](https://user-images.githubusercontent.com/76419649/227713288-487f391b-6de8-4f2d-a826-9c76580044cc.png)
