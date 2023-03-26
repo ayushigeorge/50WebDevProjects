@@ -78,3 +78,7 @@
 ## DAY 19
 # theme Clock
 ![image](https://user-images.githubusercontent.com/76419649/227713288-487f391b-6de8-4f2d-a826-9c76580044cc.png)
+
+## Day 20
+# Ripple Effect in click
+![image](https://user-images.githubusercontent.com/76419649/227753653-56b8f16f-c7b3-4a6c-ae03-816f0caaa044.png)
