@@ -82,3 +82,7 @@
 ## Day 20
 # Ripple Effect in click
 ![image](https://user-images.githubusercontent.com/76419649/227753653-56b8f16f-c7b3-4a6c-ae03-816f0caaa044.png)
+
+## Day 21
+# Drag and Drop
+![image](https://user-images.githubusercontent.com/76419649/227923575-fa07f583-abdd-42ea-9489-4453ae00d48d.png)
