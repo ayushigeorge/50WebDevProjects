@@ -90,3 +90,7 @@
 ## Day 22
 # Drawing App
 ![image](https://user-images.githubusercontent.com/76419649/228208814-605951ff-b72c-47d1-be78-6faa496ae874.png)
+
+## Day 23
+# Kinetic Loader
+![image](https://user-images.githubusercontent.com/76419649/228484831-50aaa6fe-bb98-4050-8f28-3a38ea46bc00.png)
