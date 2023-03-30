@@ -94,3 +94,8 @@
 ## Day 23
 # Kinetic Loader
 ![image](https://user-images.githubusercontent.com/76419649/228484831-50aaa6fe-bb98-4050-8f28-3a38ea46bc00.png)
+
+## Day 24 
+# Content Placeholder
+![image](https://user-images.githubusercontent.com/76419649/228746300-a478b323-06c2-4a48-947d-edf232ebdb18.png)
+
