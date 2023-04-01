@@ -103,3 +103,6 @@
 # Website
 ![image](https://user-images.githubusercontent.com/76419649/229006568-434a62e8-ad3d-4423-844f-011f322ee8ef.png)
 
+## Day 26
+# Two Vertical Sliders
+![image](https://user-images.githubusercontent.com/76419649/229270601-6c410cb5-a1c1-4ed6-8abe-5ed546cabe91.png)
