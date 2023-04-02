@@ -106,3 +106,7 @@
 ## Day 26
 # Two Vertical Sliders
 ![image](https://user-images.githubusercontent.com/76419649/229270601-6c410cb5-a1c1-4ed6-8abe-5ed546cabe91.png)
+
+## Day 27
+# 2 Sec notification
+![image](https://user-images.githubusercontent.com/76419649/229342459-2bdbf5a5-8060-4986-9ed6-4e86b283c51e.png)
