@@ -126,3 +126,7 @@
 ## Day 31
 # Password Generator
 ![image](https://user-images.githubusercontent.com/76419649/230284685-4c03b644-b916-40b2-a2aa-dffaa3a6af2c.png)
+
+## Day 32
+# Toggles Buttons
+![image](https://user-images.githubusercontent.com/76419649/230546734-49e9e0ae-963d-44de-8870-8dc3087ee0ec.png)
