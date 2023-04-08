@@ -134,3 +134,7 @@
 ## Day 33 
 # Notes App
 ![image](https://user-images.githubusercontent.com/76419649/230713134-e2a56ba9-e371-4e6e-88c9-5db4523b8b60.png)
+
+## Day 34
+# Animated CountDown
+![image](https://user-images.githubusercontent.com/76419649/230738307-61756f65-f8ac-4274-89a7-8b1eb53d3385.png)
