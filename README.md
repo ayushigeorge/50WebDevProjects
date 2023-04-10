@@ -138,3 +138,7 @@
 ## Day 34
 # Animated CountDown
 ![image](https://user-images.githubusercontent.com/76419649/230738307-61756f65-f8ac-4274-89a7-8b1eb53d3385.png)
+
+## Day 35
+# Image Carosel
+![image](https://user-images.githubusercontent.com/76419649/230857143-c6e67153-0333-462d-afc2-ebef95b548fa.png)
