@@ -142,3 +142,7 @@
 ## Day 35
 # Image Carosel
 ![image](https://user-images.githubusercontent.com/76419649/230857143-c6e67153-0333-462d-afc2-ebef95b548fa.png)
+
+## Day 36
+# Hoverboard
+![image](https://user-images.githubusercontent.com/76419649/230978572-d60c9cad-28d9-4ab7-a366-a63db6f4125b.png)
