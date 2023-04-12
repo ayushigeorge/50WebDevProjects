@@ -150,3 +150,7 @@
 ## Day 37
 # Pokemon Index
 ![image](https://user-images.githubusercontent.com/76419649/231265279-c8512599-c603-4f0c-9b8d-94b58437966f.png)
+
+## Day 38
+# Mock Mobile Tab
+![image](https://user-images.githubusercontent.com/76419649/231557198-6ca7f174-e6b3-4981-952b-abcbd7687a56.png)
