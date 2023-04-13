@@ -154,3 +154,7 @@
 ## Day 38
 # Mock Mobile Tab
 ![image](https://user-images.githubusercontent.com/76419649/231557198-6ca7f174-e6b3-4981-952b-abcbd7687a56.png)
+
+## Day 39
+# Password Strength Generator
+![image](https://user-images.githubusercontent.com/76419649/231903411-5ac595a1-40ae-4659-94d0-f1a3003b1fdb.png)
