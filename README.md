@@ -158,3 +158,8 @@
 ## Day 39
 # Password Strength Generator
 ![image](https://user-images.githubusercontent.com/76419649/231903411-5ac595a1-40ae-4659-94d0-f1a3003b1fdb.png)
+
+## Day 40
+# 3D box boxes
+![image](https://user-images.githubusercontent.com/76419649/232149404-db57f769-5b8e-46ef-ad0f-30955a28dcf3.png)
+
