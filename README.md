@@ -163,3 +163,6 @@
 # 3D box boxes
 ![image](https://user-images.githubusercontent.com/76419649/232149404-db57f769-5b8e-46ef-ad0f-30955a28dcf3.png)
 
+## Day 41
+# Verify Account
+![image](https://user-images.githubusercontent.com/76419649/232258474-a19c87f9-64fd-40a4-97ce-8879ccba0b89.png)
