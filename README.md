@@ -175,3 +175,7 @@
 # Feedback UI
 ![image](https://user-images.githubusercontent.com/76419649/232582580-5728c50a-c113-4902-8a2b-c0c9c5bf531a.png)
 
+## Day 44
+# Slide Range 
+![image](https://user-images.githubusercontent.com/76419649/232877926-9e57ba48-6511-4f19-8938-41c45805a33e.png)
+
