@@ -179,3 +179,6 @@
 # Slide Range 
 ![image](https://user-images.githubusercontent.com/76419649/232877926-9e57ba48-6511-4f19-8938-41c45805a33e.png)
 
+## Day 45
+# Neflix Clone UI
+![image](https://user-images.githubusercontent.com/76419649/233358352-d757db18-107f-4f0e-8a65-2e7697e83773.png)
