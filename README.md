@@ -182,3 +182,11 @@
 ## Day 45
 # Neflix Clone UI
 ![image](https://user-images.githubusercontent.com/76419649/233358352-d757db18-107f-4f0e-8a65-2e7697e83773.png)
+
+## Day 46
+# Quiz App
+![image](https://user-images.githubusercontent.com/76419649/233679463-3829489c-ca75-4789-b741-f4c39354dd6b.png)
+
+## Day 47
+# Testimonial 
+![image](https://user-images.githubusercontent.com/76419649/233788250-c86ef913-4e4e-45fb-bdd2-d3a65e8c9ac4.png)
