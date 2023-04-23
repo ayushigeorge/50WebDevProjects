@@ -191,6 +191,6 @@
 # Testimonial 
 ![image](https://user-images.githubusercontent.com/76419649/233788250-c86ef913-4e4e-45fb-bdd2-d3a65e8c9ac4.png)
 
-# Day 48
+## Day 48
 # Random Image picker
 ![image](https://user-images.githubusercontent.com/76419649/233852064-d0cb0a03-ffda-49f5-9ffa-bcbe54353ebe.png)
